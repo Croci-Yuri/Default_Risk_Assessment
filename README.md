@@ -50,7 +50,7 @@ Building on the risk segmentation results, several practical actions can support
 
 ## Repository Structure
 ```
-Home_Credit_Default_Risk_Assessment/
+Default_Risk_Assessment/
 ├── 01_data_preprocessing_SQL/         # BigQuery scripts for data integration and cleaning
 ├── 02_feature_development_Python/     # Feature engineering and selection notebooks
 ├── 03_modeling_segmentation_Python/   # Model training, evaluation, and risk segmentation
